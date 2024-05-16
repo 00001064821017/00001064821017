@@ -1,6 +1,10 @@
 Hi there 👋 😸 welcome to my perfil
-<!--
-**00001064821017/00001064821017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é 0000106482101
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
 - my email: 00001064821017sp@al.educacao.sp.gov.br
 ![](https://media1.tenor.com/m/Uckf2kbVE_EAAAAC/kuromi-roblox.gif)
 
